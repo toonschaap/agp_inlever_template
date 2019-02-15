@@ -11,11 +11,10 @@ Platform:
 #### Producten Werkproces 1
 | Product  | Link |
 | ------ |  ------ |
-|<img width=500/>|<img width=600/>|
 | Link naar online product backlog (Trello) | [Backlog]
 | Logboek (pdf)                             | [Logboek]
 | Game concept doc (pdf)                    | [GameDesignDoc]
-
+|<img width=500/>|<img width=600/>|
    
 #### Producten Werkproces 2
 | Product  | Link |
