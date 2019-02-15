@@ -5,7 +5,7 @@ Platform:
 [jullie platfom]
 
 ### Korte omschrijving van de game
-[...]
+...
 
 ---
 #### Producten Werkproces 1
