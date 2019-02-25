@@ -1,5 +1,5 @@
-## [titel van jullie game]
-Project team:[jullie namen]
+## Anansi
+Project team:Toon, Noah, Martijn, Lucas, Falco, Liam
 
 Platform:
 [jullie platfom]
