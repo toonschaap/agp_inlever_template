@@ -34,8 +34,8 @@ Je speelt als een strijder van een stam om Anansi te verslaan. Anansi heeft meer
 | Asset planning (pdf)                  | [AssetPlanning]
 |<img width=500/>|<img width=300/>|
 
-   [Backlog]: <https://trello.com/b/hik72z4q/mythe-2019-voorbeeld-trello>
-   [Logboek]: <https://github.com/BerendWeij/agp_inlever_template/blob/master/producten/logboek.pdf>
+   [Backlog]: <https://trello.com/b/qNIGUI29/myths>
+   [Logboek]: <https://docs.google.com/spreadsheets/d/1hQ7veYJg9oexPXzo5N9BfvQxB0oubP3gYFh1orqqdNI/edit#gid=1851799535>
    [GameDesignDoc]: <https://github.com/BerendWeij/agp_inlever_template/blob/master/producten/GameDesignDoc.pdf>
    [RetrospectiveVerslagen]: <https://github.com/BerendWeij/agp_inlever_template/blob/master/producten/RetrospectiveVerslagen.pdf>
    [ReviewVerslagen]: <https://github.com/BerendWeij/agp_inlever_template/blob/master/producten/ReviewVerslagen.pdf>
