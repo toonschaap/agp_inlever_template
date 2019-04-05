@@ -6,7 +6,7 @@ Platform:
 
 ### Korte omschrijving van de game
 ...
-
+Je speelt als een strijder van een stam om Anansi te verslaan. Anansi heeft meerdere dieren en wijsheid van je stam gestolen en je moet het terug krijgen door in zijn grot te gaan.
 ---
 #### Producten Werkproces 1
 | Product  | Link |
