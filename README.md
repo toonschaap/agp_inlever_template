@@ -13,7 +13,6 @@ Je speelt als een strijder van een stam om Anansi te verslaan. Anansi heeft meer
 | ------ |  ------ |
 | Link naar online product backlog (Trello) | [Backlog]
 | Logboek (pdf)                             | [Logboek]
-| Game concept doc (pdf)                    | [GameDesignDoc]
 |<img width=500/>|<img width=300/>|
    
 #### Producten Werkproces 2
@@ -28,7 +27,6 @@ Je speelt als een strijder van een stam om Anansi te verslaan. Anansi heeft meer
 | Product  | Link |
 | ------ |  ------ |
 | Sprint retrospective verslagen (pdf)  | [RetrospectiveVerslagen]
-| Sprint review verslagen (pdf)         | [ReviewVerslagen]
 | Link naar online speelbaar prototype  | [Prototype]
 | Logboek (pdf)                         | [Logboek]
 | Asset planning (pdf)                  | [AssetPlanning]
@@ -36,9 +34,7 @@ Je speelt als een strijder van een stam om Anansi te verslaan. Anansi heeft meer
 
    [Backlog]: <https://trello.com/b/qNIGUI29/myths>
    [Logboek]: <https://docs.google.com/spreadsheets/d/1hQ7veYJg9oexPXzo5N9BfvQxB0oubP3gYFh1orqqdNI/edit#gid=1851799535>
-   [GameDesignDoc]: <https://github.com/BerendWeij/agp_inlever_template/blob/master/producten/GameDesignDoc.pdf>
    [RetrospectiveVerslagen]: <https://github.com/BerendWeij/agp_inlever_template/blob/master/producten/RetrospectiveVerslagen.pdf>
-   [ReviewVerslagen]: <https://github.com/BerendWeij/agp_inlever_template/blob/master/producten/ReviewVerslagen.pdf>
    [Prototype]: <https://www.mijnmytheprototype.nl>
    [AssetPlanning]: <https://github.com/BerendWeij/agp_inlever_template/blob/master/producten/AssetPlanning.pdf>
    
