@@ -5,31 +5,7 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 0
-    path:
-    guid: 00000000000000000000000000000000
-  - enabled: 0
-    path:
-    guid: 00000000000000000000000000000000
   - enabled: 1
-    path: Assets/MartijnWorpskpace/Menu Scenes/IntroScene.unity
-    guid: 0e27f241d97a7f946855385ee70c8c38
-  - enabled: 1
-    path: Assets/MartijnWorpskpace/Menu Scenes/MainMenu.unity
-    guid: 52ba5686d073ab644bd6376b10051f59
-  - enabled: 1
-    path: Assets/MartijnWorpskpace/_Scenes/PlayerMovement.unity
-    guid: 1d0a581408668bd438c871d8d59108f7
-  - enabled: 1
-    path: Assets/MartijnWorpskpace/_Scenes/BoosRoom.unity
-    guid: 4a7feb64ede717942b437b8052fdaf0e
-  - enabled: 1
-    path: Assets/MartijnWorpskpace/Menu Scenes/IntroScene.unity
-    guid: 0e27f241d97a7f946855385ee70c8c38
-  - enabled: 1
-    path: Assets/MartijnWorpskpace/Menu Scenes/WinScene.unity
-    guid: 5b264ce082e943545a3ce308b0ccf17e
-  - enabled: 1
-    path: Assets/MartijnWorpskpace/Menu Scenes/LoseScene.unity
-    guid: cdf5212e720f2a34baab67878615a02b
+    path: Assets/Scenes/SampleScene.unity
+    guid: 99c9720ab356a0642a771bea13969a05
   m_configObjects: {}

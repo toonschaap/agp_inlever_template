@@ -3,16 +3,7 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags:
-  - Enemy
-  - EnemyWeapon
-  - Weapon
-  - PlayerWeapon
-  - projectile
-  - Anansi
-  - Rock
-  - EnemyHitBox
-  - PlayerHitBox
+  tags: []
   layers:
   - Default
   - TransparentFX
@@ -23,7 +14,7 @@ TagManager:
   - 
   - 
   - PostProcessing
-  - Wall
+  - 
   - 
   - 
   - 
