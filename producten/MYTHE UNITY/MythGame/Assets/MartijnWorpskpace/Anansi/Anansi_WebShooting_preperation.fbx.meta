@@ -1,0 +1,300 @@
+fileFormatVersion: 2
+guid: 6d90873ee68a51547832aa61d79a4d0b
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: ambientLight1
+    100002: Anansi
+    100004: Anansi_parts
+    100006: //RootNode
+    100008: Back
+    100010: back
+    100012: Back1
+    100014: blue
+    100016: Booty
+    100018: Booty1
+    100020: Controls_Anansi
+    100022: feather1
+    100024: Head
+    100026: head
+    100028: Head1
+    100030: head_top
+    100032: L_arm
+    100034: L_back_up
+    100036: L_front_up
+    100038: L_mid_up
+    100040: Left_ankle
+    100042: Left_ankle 1
+    100044: Left_ankle 2
+    100046: Left_back_leg
+    100048: Left_elbow
+    100050: Left_fingers
+    100052: Left_front_leg
+    100054: Left_hand
+    100056: Left_knee
+    100058: Left_knee 1
+    100060: Left_knee 2
+    100062: Left_leg_back
+    100064: Left_leg_back 1
+    100066: Left_leg_front
+    100068: Left_leg_front 1
+    100070: Left_leg_mid
+    100072: Left_leg_mid 1
+    100074: Left_mid_leg
+    100076: Left_onderarm
+    100078: Left_shoulder
+    100080: Left_toe
+    100082: Left_toe 1
+    100084: Left_toe 2
+    100086: neck
+    100088: Pelvis
+    100090: pPlane1
+    100092: R_arm
+    100094: R_back_up
+    100096: R_front_up
+    100098: R_mid_up
+    100100: red
+    100102: ribs
+    100104: Right_ankle
+    100106: Right_ankle 1
+    100108: Right_ankle 2
+    100110: Right_back_leg
+    100112: Right_elbow
+    100114: Right_fingers
+    100116: Right_front_leg
+    100118: Right_hand
+    100120: Right_knee
+    100122: Right_knee 1
+    100124: Right_knee 2
+    100126: Right_leg_back
+    100128: Right_leg_back 1
+    100130: Right_leg_front
+    100132: Right_leg_front 1
+    100134: Right_leg_mid
+    100136: Right_leg_mid 1
+    100138: Right_mid_leg
+    100140: Right_onderarm
+    100142: Right_shoulder
+    100144: Right_toe
+    100146: Right_toe 1
+    100148: Right_toe 2
+    100150: Spine
+    100152: strap
+    100154: strap2
+    100156: Tail
+    100158: Tail 1
+    100160: Tail_body
+    100162: Tail_tip
+    100164: transform1
+    100166: Voor
+    100168: Whole_body
+    100170: Zij
+    400000: ambientLight1
+    400002: Anansi
+    400004: Anansi_parts
+    400006: //RootNode
+    400008: Back
+    400010: back
+    400012: Back1
+    400014: blue
+    400016: Booty
+    400018: Booty1
+    400020: Controls_Anansi
+    400022: feather1
+    400024: Head
+    400026: head
+    400028: Head1
+    400030: head_top
+    400032: L_arm
+    400034: L_back_up
+    400036: L_front_up
+    400038: L_mid_up
+    400040: Left_ankle
+    400042: Left_ankle 1
+    400044: Left_ankle 2
+    400046: Left_back_leg
+    400048: Left_elbow
+    400050: Left_fingers
+    400052: Left_front_leg
+    400054: Left_hand
+    400056: Left_knee
+    400058: Left_knee 1
+    400060: Left_knee 2
+    400062: Left_leg_back
+    400064: Left_leg_back 1
+    400066: Left_leg_front
+    400068: Left_leg_front 1
+    400070: Left_leg_mid
+    400072: Left_leg_mid 1
+    400074: Left_mid_leg
+    400076: Left_onderarm
+    400078: Left_shoulder
+    400080: Left_toe
+    400082: Left_toe 1
+    400084: Left_toe 2
+    400086: neck
+    400088: Pelvis
+    400090: pPlane1
+    400092: R_arm
+    400094: R_back_up
+    400096: R_front_up
+    400098: R_mid_up
+    400100: red
+    400102: ribs
+    400104: Right_ankle
+    400106: Right_ankle 1
+    400108: Right_ankle 2
+    400110: Right_back_leg
+    400112: Right_elbow
+    400114: Right_fingers
+    400116: Right_front_leg
+    400118: Right_hand
+    400120: Right_knee
+    400122: Right_knee 1
+    400124: Right_knee 2
+    400126: Right_leg_back
+    400128: Right_leg_back 1
+    400130: Right_leg_front
+    400132: Right_leg_front 1
+    400134: Right_leg_mid
+    400136: Right_leg_mid 1
+    400138: Right_mid_leg
+    400140: Right_onderarm
+    400142: Right_shoulder
+    400144: Right_toe
+    400146: Right_toe 1
+    400148: Right_toe 2
+    400150: Spine
+    400152: strap
+    400154: strap2
+    400156: Tail
+    400158: Tail 1
+    400160: Tail_body
+    400162: Tail_tip
+    400164: transform1
+    400166: Voor
+    400168: Whole_body
+    400170: Zij
+    2100000: lambert2
+    2100002: lambert1
+    2300000: pPlane1
+    3300000: pPlane1
+    4300000: Anansi
+    4300002: pPlane1
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: Anansi
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 60
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
